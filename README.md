@@ -24,10 +24,10 @@
 
 ### Links to example implementations:
 
-[Link Text](https://p5js.org/reference/p5/curveVertex)
+[curveVertex()](https://p5js.org/reference/p5/curveVertex)
 
 ![An image of the refebeginend](readmeImages/refebeginend.jpg)
 
-[Link Text](https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715)
+[How to Draw a Squiggly Line in P5JS](https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715)
 
 ![An image of reference1](readmeImages/reference1.jpg)
