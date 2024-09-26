@@ -4,14 +4,11 @@
 
 ### This picture is by Austrian artist Sigrid A., who focuses on exploring the interaction of shapes, lines and colours. This work shows the contrast between yellow circles and organic black lines. These elements can be simulated through code, with circles as network connections between nodes.
 
-![An image of the IMG_3595](readmeImages/IMG_3595.jpg
-Links to an external site.)
+![An image of the IMG_3595](readmeImages/IMG_3595.jpg)
 
 ### The reference work 'Wheels of Fortune' in the major project, in addition to the basic circular wheel, has another difficulty: how to restore the circular nodes connected by lines around the circular wheel. Therefore, p5.js can be used to be suitable for expressing dynamic connection relationships. This part of the effect can be achieved through beginShape() and endShape() combined with ellipse(), and curveVertex().
 
-
-![An image of the Pacita Abad Wheels of fortune](readmeImages/Pacita Abad Wheels of fortune.jpg
-Links to an external site.)
+![An image of the Pacita Abad Wheels of fortune](readmeImages/Pacita Abad Wheels of fortune.jpg)
 
 
 ## Part 2: Coding Technique Exploration
@@ -27,14 +24,10 @@ Links to an external site.)
 
 ### Links to example implementations:
 
-[Link Text](https://p5js.org/reference/p5/curveVertex/
-Links to an external site.)
+[Link Text](https://p5js.org/reference/p5/curveVertex)
 
-![An image of the refebeginend](readmeImages/refebeginend.jpg
-Links to an external site.)
+![An image of the refebeginend](readmeImages/refebeginend.jpg)
 
-[Link Text](https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715/
-Links to an external site.)
+[Link Text](https://www.alpharithms.com/how-to-draw-a-squiggly-line-in-p5js-or-processing-120715)
 
-![An image of reference1](readmeImages/reference1.jpg
-Links to an external site.)
+![An image of reference1](readmeImages/reference1.jpg)
